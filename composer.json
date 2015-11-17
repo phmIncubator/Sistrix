@@ -1,0 +1,21 @@
+{
+  "name": "phmlabs/sistrix",
+  "description": "description_text",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Nils Langner",
+      "email": "nils.langner@phmlabs.com"
+    }
+  ],
+
+  "require": {
+    "guzzlehttp/guzzle": "~6.1.0"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "phmLabs\\Sistrix\\": "src/"
+    }
+  }
+}
