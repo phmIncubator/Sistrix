@@ -1,6 +1,6 @@
 <?php
 
-$apiKey = "KAWx97vR2C5GIN4NENanKWWzVrASAfKz";
+$apiKey = "<sistrix api key>";
 
 include_once __DIR__ . "/../vendor/autoload.php";
 
